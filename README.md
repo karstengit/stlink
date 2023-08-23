@@ -3,7 +3,15 @@
 - https://github.com/stlink-org/stlink/issues/1322
 - https://github.com/stlink-org/stlink/issues/1323
 
-### Binaries are included that are compiled under Debian 12 (bookworm). Only "make install" needed.
+### Binaries are included that are compiled under Debian 12 (bookworm). Only "make install" is needed.
+
+Picture of such an typical blue pill
+
+![bluepill](https://github.com/karstengit/stlink/assets/5941550/7d0b9fa2-01b3-4a7f-a5d9-5584f1b1d995)
+
+Detail picture of the soldered cloned STM32 MCU
+
+![STM32 cloned](https://github.com/karstengit/stlink/assets/5941550/b48196ad-0d97-4369-b50c-d0afeeb0f451)
 
 
 [![BSD licensed](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
