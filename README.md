@@ -3,7 +3,7 @@
 - https://github.com/stlink-org/stlink/issues/1322
 - https://github.com/stlink-org/stlink/issues/1323
 
-### Binaries are included that are compiled under Debian 12 (bookworm). Only "make install" is needed.
+### For binaries please check [release v1.7.d](https://github.com/karstengit/stlink/releases/tag/v1.7.d)
 
 Picture of such an typical blue pill
 
